@@ -1,1 +1,1 @@
-Lecture slides
+講義スライド

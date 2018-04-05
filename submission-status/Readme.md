@@ -1,1 +1,2 @@
-Status of exercise submissions
+各週の課題の確認結果など
+
